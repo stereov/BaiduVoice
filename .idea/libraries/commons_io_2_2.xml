@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="commons-io-2.2">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/baiduboice/web/WEB-INF/lib/commons-io-2.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/baiduboice/web/WEB-INF/lib/commons-logging-1.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/baiduboice/web/WEB-INF/lib/dwr.jar!/" />
+      <root url="jar://$PROJECT_DIR$/baiduboice/web/WEB-INF/lib/fluent-hc-4.5.3.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

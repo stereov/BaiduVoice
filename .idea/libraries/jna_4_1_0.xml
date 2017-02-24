@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="jna-4.1.0">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/baiduboice/web/WEB-INF/lib/jna-4.1.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/baiduboice/web/WEB-INF/lib/jna-platform-4.1.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/baiduboice/web/WEB-INF/lib/org.json.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="httpclient-4.5.3">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/baiduboice/web/WEB-INF/lib/httpclient-4.5.3.jar!/" />
+      <root url="jar://$PROJECT_DIR$/baiduboice/web/WEB-INF/lib/httpclient-cache-4.5.3.jar!/" />
+      <root url="jar://$PROJECT_DIR$/baiduboice/web/WEB-INF/lib/httpclient-win-4.5.3.jar!/" />
+      <root url="jar://$PROJECT_DIR$/baiduboice/web/WEB-INF/lib/httpcore-4.4.6.jar!/" />
+      <root url="jar://$PROJECT_DIR$/baiduboice/web/WEB-INF/lib/httpmime-4.5.3.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

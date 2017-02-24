@@ -1,0 +1,20 @@
+<component name="ArtifactManager">
+  <artifact type="exploded-war" name="baiduboice:war exploded">
+    <output-path>$PROJECT_DIR$/out/artifacts/baiduboice_war_exploded</output-path>
+    <root id="root">
+      <element id="directory" name="WEB-INF">
+        <element id="directory" name="classes">
+          <element id="module-output" name="baiduboice" />
+          <element id="dir-copy" path="$PROJECT_DIR$/baiduboice/web/WEB-INF/lib" />
+        </element>
+        <element id="directory" name="lib">
+          <element id="file-copy" path="$PROJECT_DIR$/baiduboice/web/WEB-INF/lib/commons-codec-1.9.jar" />
+          <element id="library" level="project" name="httpclient-4.5.3" />
+          <element id="library" level="project" name="commons-io-2.2" />
+          <element id="library" level="project" name="jna-4.1.0" />
+        </element>
+      </element>
+      <element id="javaee-facet-resources" facet="baiduboice/web/Web" />
+    </root>
+  </artifact>
+</component>
